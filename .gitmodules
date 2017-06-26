@@ -1,0 +1,3 @@
+[submodule "LanguageFeatures"]
+	path = LanguageFeatures
+	url = ../LanguageFeatures.git
