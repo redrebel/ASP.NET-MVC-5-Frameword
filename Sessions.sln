@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites", "PartyInvite
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageFeatures", "LanguageFeatures\LanguageFeatures.csproj", "{8E00377A-6DB3-4893-9B53-E464A4360619}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools", "EssentialTools\EssentialTools.csproj", "{9011BE31-803E-40CE-A840-B9401DFD2FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools.Tests", "EssentialTools.Tests\EssentialTools.Tests.csproj", "{218DD38E-AC67-4B98-81E7-B98C744820D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8E00377A-6DB3-4893-9B53-E464A4360619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E00377A-6DB3-4893-9B53-E464A4360619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E00377A-6DB3-4893-9B53-E464A4360619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9011BE31-803E-40CE-A840-B9401DFD2FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9011BE31-803E-40CE-A840-B9401DFD2FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9011BE31-803E-40CE-A840-B9401DFD2FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9011BE31-803E-40CE-A840-B9401DFD2FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218DD38E-AC67-4B98-81E7-B98C744820D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218DD38E-AC67-4B98-81E7-B98C744820D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218DD38E-AC67-4B98-81E7-B98C744820D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218DD38E-AC67-4B98-81E7-B98C744820D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
